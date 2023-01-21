@@ -1,0 +1,13 @@
+Instalar Nodes js --> https://nodejs.org/es/
+
+node --version  //Verificamos la instalación
+npm --version  //Verificamos que se haya instalado correctamente el gestor de dependencias de Javascript
+
+**Crear proyecto**
+npx create-react-app crudaspreact
+
+**Instalar paquetes en VsCode para diseño y modales**
+npm i bootstrap reactstrap axios
+
+**Ejecutar proyecto**
+npm start
